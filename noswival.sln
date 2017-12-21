@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "noswival", "noswival\noswival.csproj", "{C141637F-6573-42EE-9A39-12CF82977BF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "noswivaltests", "noswivaltests\noswivaltests.csproj", "{2FE1DAD3-FDF8-4E76-8353-8D772A8FE4DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C141637F-6573-42EE-9A39-12CF82977BF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C141637F-6573-42EE-9A39-12CF82977BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C141637F-6573-42EE-9A39-12CF82977BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C141637F-6573-42EE-9A39-12CF82977BF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FE1DAD3-FDF8-4E76-8353-8D772A8FE4DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FE1DAD3-FDF8-4E76-8353-8D772A8FE4DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FE1DAD3-FDF8-4E76-8353-8D772A8FE4DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FE1DAD3-FDF8-4E76-8353-8D772A8FE4DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF269631-301F-42E9-80AA-62DCAC6E817E}
+	EndGlobalSection
+EndGlobal
