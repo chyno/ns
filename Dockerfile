@@ -16,7 +16,7 @@ RUN dotnet test noswivaltests/noswivaltests.csproj
 # publish
  RUN dotnet publish noswival/noswival.csproj -o /publish
 
-# Runtime stage
+# Runtime 
 FROM microsoft/aspnetcore:2
 COPY --from=build-env /publish /publish
 WORKDIR /publish
